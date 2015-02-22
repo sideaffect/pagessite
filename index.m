@@ -4,4 +4,7 @@
 
 I am sick of Hello World!
 
-![live code homepage (http://gilt.com)]
+(http://gilt.com)
+
+[by default github uses the master page & set default to gh-pages]
+
