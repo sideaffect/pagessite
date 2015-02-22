@@ -4,4 +4,4 @@
 
 I am sick of Hello World!
 
-![live code homepage](http://livecode.com/nyc)
+![live code homepage (http://gilt.com)]
